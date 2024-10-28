@@ -15,7 +15,7 @@ public class ListStudy {
 
 
         //임포트 되어있는곳 아니면 됨 아까는 java플젝에 임포트 되어서 안됨. toString 값이 오버라이딩 됨
-        list.add(10);//0번 인덱스에 들어감
+        list.add(20);//0번 인덱스에 들어감
         list.add(20);//1번방에 들어감
         ArrayList list1=(ArrayList)list;
         /*
