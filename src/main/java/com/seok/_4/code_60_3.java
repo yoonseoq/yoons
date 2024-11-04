@@ -5,6 +5,7 @@ public class code_60_3 {
 
         int n = 99;
 
+
         for (int i = 1; i <= n; i++) {
             boolean is369 = false;
 
@@ -21,6 +22,7 @@ public class code_60_3 {
                 System.out.println("짝");
             } else {
                 System.out.println(i);
+
             }
         }
     }
