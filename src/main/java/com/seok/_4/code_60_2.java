@@ -1,11 +1,15 @@
 package com.seok._4;
 
+import java.util.Scanner;
+
 public class code_60_2 {
     public static void main(String[] args) {
 
-        int n = 99;
+        Scanner scan = new Scanner(System.in);//스캐너란 곳에서 객체생성
+        System.out.println("숫자를 입력하세요");
+        int input = scan.nextInt();
 
-        for (int i = 1; i <= n; i++) {
+        for (int i = 1; i <= input; i++) {
             boolean is369 = false;
             int tmp = i;
             while (tmp > 0) {
