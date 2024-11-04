@@ -3,7 +3,7 @@ package com.seok._4;
 public class code_60_2 {
     public static void main(String[] args) {
 
-        int n = 300;
+        int n = 99;
 
         for (int i = 1; i <= n; i++) {
             boolean is369 = false;
