@@ -15,6 +15,13 @@ public class StaticStudy {
 
         StaticNumberBox.sum3(5,5);
 
+        NonStaticNumberBox nnb = new NonStaticNumberBox();
+        //스태틱이 안되어있는 메소드는 클래스를 객체화 해야함
+
+        nnb.nsum();
+        NonStaticNumberBox.nsum2();
+        System.out.println(nnb.nsum3(2,2));
+        nnb.nsum4(8,2);
 
 
 
@@ -52,8 +59,14 @@ class NonStaticNumberBox{
     void nsum(){
         System.out.println(n1+n2);
     }
-    void nsum2(){
+    static void nsum2(){
         System.out.println(n3+n4);
+    }
+    int nsum3(int n1,int n2){
+        return n1+n2;
+    }
+    int nsum4(int n3,int n4){
+        return n3+n4;
     }
 
 
