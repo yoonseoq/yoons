@@ -1,6 +1,6 @@
-package com.green.seok.TV;
+package com.seok.TV;
 
-import com.green.seok.TV.noneioc.SamsungTV;
+import com.seok.TV.noneioc.SamsungTV;
 
 public class TVTest {
     public static void main(String[] args) {

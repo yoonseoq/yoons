@@ -1,7 +1,7 @@
-package com.green.seok.TV.noneioc;
+package com.seok.TV.noneioc;
 
-import com.green.seok.TV.Speaker;
-import com.green.seok.TV.TV;
+import com.seok.TV.Speaker;
+import com.seok.TV.TV;
 
 public class SamsungTV implements TV {
     private Speaker speaker;

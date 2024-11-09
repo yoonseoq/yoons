@@ -1,9 +1,9 @@
-package com.green.seok.TV.ioc;
+package com.seok.TV.ioc;
 
-import com.green.seok.TV.HanilWoofer;
-import com.green.seok.TV.Speaker;
-import com.green.seok.TV.TV;
-import com.green.seok.TV.Woofer;
+import com.seok.TV.HanilWoofer;
+import com.seok.TV.Speaker;
+import com.seok.TV.TV;
+import com.seok.TV.Woofer;
 
 public class IocTest { // 상부에서 미리 고정된 부속을 정함
     public static void main(String[] args) {

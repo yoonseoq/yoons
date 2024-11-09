@@ -1,7 +1,7 @@
-package com.green.seok.TV.ioc;
+package com.seok.TV.ioc;
 
-import com.green.seok.TV.Speaker;
-import com.green.seok.TV.TV;
+import com.seok.TV.Speaker;
+import com.seok.TV.TV;
 
 public class LgTV implements TV {
    private Speaker speaker;

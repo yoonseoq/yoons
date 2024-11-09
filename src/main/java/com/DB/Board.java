@@ -1,4 +1,4 @@
-package com.green.seok.DB;
+package com.DB;
 
 public class Board {
     // 튜플 하나의 값을 객체화시켜 데이터를 담아야한다.

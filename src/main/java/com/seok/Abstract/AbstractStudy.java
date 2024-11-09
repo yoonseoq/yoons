@@ -1,4 +1,4 @@
-package com.green.seok.Abstract;
+package com.seok.Abstract;
 
 public abstract class AbstractStudy {
     /*

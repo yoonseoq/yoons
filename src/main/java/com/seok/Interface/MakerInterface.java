@@ -1,4 +1,4 @@
-package com.green.seok.Interface;
+package com.seok.Interface;
 
 public class MakerInterface {
     public static void main(String[] args) {

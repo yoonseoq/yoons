@@ -1,4 +1,4 @@
-package com.green.seok.Static;
+package com.seok.Static;
 
 public class StaticStudy {
     public static void main(String[] args) {

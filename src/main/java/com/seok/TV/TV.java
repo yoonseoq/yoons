@@ -1,4 +1,4 @@
-package com.green.seok.TV;
+package com.seok.TV;
 
 public interface TV {
     void sound();

@@ -1,6 +1,6 @@
-package com.green.seok.TV.ioc;
+package com.seok.TV.ioc;
 
-import com.green.seok.TV.*;
+import com.seok.TV.*;
 
 public class TVFactory {
     private static TVFactory tvFactory;

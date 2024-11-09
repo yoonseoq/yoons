@@ -1,6 +1,6 @@
-package com.green.seok.TV.noneioc;
+package com.seok.TV.noneioc;
 
-import com.green.seok.TV.Speaker;
+import com.seok.TV.Speaker;
 
 public class JBLSpeaker implements Speaker {
     public void speakerSound(){

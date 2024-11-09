@@ -1,8 +1,8 @@
-package com.green.seok.TV.noneioc;
+package com.seok.TV.noneioc;
 
-import com.green.seok.TV.HanilWoofer;
-import com.green.seok.TV.Speaker;
-import com.green.seok.TV.Woofer;
+import com.seok.TV.HanilWoofer;
+import com.seok.TV.Speaker;
+import com.seok.TV.Woofer;
 
 public class HarmanSpeaker implements Speaker {
     private Woofer woofer;

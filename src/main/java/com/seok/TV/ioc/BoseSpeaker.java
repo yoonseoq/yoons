@@ -1,7 +1,7 @@
-package com.green.seok.TV.ioc;
+package com.seok.TV.ioc;
 
-import com.green.seok.TV.Speaker;
-import com.green.seok.TV.Woofer;
+import com.seok.TV.Speaker;
+import com.seok.TV.Woofer;
 
 public class BoseSpeaker implements Speaker {
     private Woofer woofer;
