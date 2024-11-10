@@ -16,8 +16,8 @@ public class MyConnection {
        System.out.println("접속성공");
        return conn;
    }
-
 }
+
 class MyConnectionTest{
     public static void main(String[] args) {
         try (Connection conn = MyConnection.getConn()){
